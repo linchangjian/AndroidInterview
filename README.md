@@ -8,3 +8,5 @@
  (2)[Android界面性能调优手册](https://androidtest.org/android-graphics-performance-pattens/)  
 4.android中的崩溃日志怎么收集？  
  (1)[崩溃日志收集](http://blog.csdn.net/chdjj/article/details/45914251)  
+5.图片加载开源库有那些？分析一下原理。  
+ (1)[Picasso源码分析](http://blog.csdn.net/chdjj/article/details/49964901)
