@@ -10,3 +10,11 @@
  (1)[崩溃日志收集](http://blog.csdn.net/chdjj/article/details/45914251)  
 5.图片加载开源库有那些？分析一下原理。  
  (1)[Picasso源码分析](http://blog.csdn.net/chdjj/article/details/49964901)
+6.OSGI  
+7.GC回收机制  
+8.插件化实现机制  
+9.热补丁实现机制  
+10.类加载器  
+11.事件分发机制  
+12.app启动流程(从桌面点击开始)  
+13.RxJava 优缺点  
